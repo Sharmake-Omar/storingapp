@@ -6,3 +6,6 @@
 <link rel="icon" href="<?php echo $base_url; ?>/favicon.ico" type="image/x-icon">
 <link rel="stylesheet" href="<?php echo $base_url; ?>/css/normalize.css">
 <link rel="stylesheet" href="<?php echo $base_url; ?>/css/main.css">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="css/normalize.css">
+<link rel="stylesheet" href="css/main.css">
